@@ -6,7 +6,7 @@ This app uses Spotify's Android authorization sdk to get access to read and writ
 
 <p align="center">
   
-  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/start_screen.PNG">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/start_screen.gif">
 </p>
 
 Once the Playlists have been gathered to user selects one and is taken to a new activity to generate a new playlist.
@@ -14,7 +14,7 @@ Once the Playlists have been gathered to user selects one and is taken to a new 
 
 <p align="center">
   
-  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist.PNG">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist.gif">
 </p>
 
 
@@ -23,8 +23,8 @@ Based off of the tracks in the user provided playlist and using spotify's web AP
 
 <p align="center">
   
-  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready.PNG">
-  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready2.PNG">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready.gif">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready2.gif">
 
 </p>
 
@@ -34,6 +34,6 @@ The found tracks are organized into frequency of occurance. The user can then se
 
 <p align="center">
   
-  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/spotify.PNG">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/spotify.gif">
 </p>
 
