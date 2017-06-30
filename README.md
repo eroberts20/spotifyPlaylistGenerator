@@ -34,6 +34,6 @@ The found tracks are organized into frequency of occurance. The user can then se
 
 <p align="center">
   
-  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/spotify.gif"  width="820" height="400">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/spotify.gif"  width="820" height="430">
 </p>
 
