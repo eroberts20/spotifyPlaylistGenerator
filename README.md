@@ -24,7 +24,7 @@ Based off of the tracks in the user provided playlist and using spotify's web AP
 <p align="center">
   
   <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready.gif" width="220" height="400" >
-  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready2.gif" width="800" height="400">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready2.gif" width="200" height="400">
 
 </p>
 
@@ -34,6 +34,6 @@ The found tracks are organized into frequency of occurance. The user can then se
 
 <p align="center">
   
-  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/spotify.gif"  width="220" height="400">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/spotify.gif"  width="820" height="400">
 </p>
 
