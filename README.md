@@ -24,6 +24,8 @@ Based off of the tracks in the user provided playlist and using spotify's web AP
 <p align="center">
   
   <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready.PNG">
+  <img src="https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/playlist_ready2.PNG">
+
 </p>
 
 
