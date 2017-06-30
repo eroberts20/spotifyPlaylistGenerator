@@ -3,7 +3,7 @@
 
 This app uses Spotify's Android authorization sdk to get access to read and write permissions for a users playlists.
 
-![Alt text](https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/start_screen.PNG?raw=true "Start Screen after login")
+![Alt text](https://github.com/eroberts20/spotifyPlaylistGenerator/blob/master/screenshots/start_screen.PNG?style=centerme "Start Screen after login")
 
 
 Once the Playlists have been gathered to user selects one and is taken to a new activity to generate a new playlist.
